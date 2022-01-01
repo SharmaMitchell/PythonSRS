@@ -1,12 +1,12 @@
-Konnichiwa	Hello, Good afternoon
-Konbanwa	Good evening
-Ohayou	Good morning
-Genki desu ka?	How are you? (lit. "Are you well?")
-Genki desu	I'm good. (lit. "I'm healthy/well.")
-Hajimemashite	Nice to meet you
-Hisashiburi	Long time no see
-Arigatou	Thank you
-Sumimasen	Excuse me, Sorry
-Hai	Yes
-Iie	No
-Yoroshiku Onegai shimasu	I look forward to working with you. (lit. "[Let's work together] nicely, please.")
+Konnichiwa	Hello, Good afternoon	1
+Konbanwa	Good evening	1
+Ohayou	Good morning	1
+Genki desu ka?	How are you? (lit. "Are you well?")	1
+Genki desu	I'm good. (lit. "I'm healthy/well.")	1
+Hajimemashite	Nice to meet you	-1
+Hisashiburi	Long time no see	-1
+Arigatou	Thank you	1
+Sumimasen	Excuse me, Sorry	1
+Hai	Yes	1
+Iie	No	1
+Yoroshiku Onegai shimasu	I look forward to working with you. (lit. "[Let's work together] nicely, please.")	-1
