@@ -1,12 +1,12 @@
-2	Konnichiwa	Hello, Good afternoon
-2	Konbanwa	Good evening
-2	Ohayou	Good morning
-2	Genki desu ka?	How are you? (lit. "Are you well?")
-2	Genki desu	I'm good. (lit. "I'm healthy/well.")
+0	Konnichiwa	Hello, Good afternoon
+0	Konbanwa	Good evening
+0	Ohayou	Good morning
+0	Genki desu ka?	How are you? (lit. 'Are you well?')
+0	Genki desu	I'm good. (lit. 'I'm healthy/well.')
 0	Hajimemashite	Nice to meet you
 0	Hisashiburi	Long time no see
-2	Arigatou	Thank you
-2	Sumimasen	Excuse me, Sorry
-2	Hai	Yes
-2	Iie	No
-0	Yoroshiku Onegai shimasu	I look forward to working with you. (lit. "[Let's work together] nicely, please.")
+0	Arigatou	Thank you
+0	Sumimasen	Excuse me, Sorry
+0	Hai	Yes
+0	Iie	No
+0	Yoroshiku Onegai shimasu	I look forward to working with you. (lit. '[Let's work together] nicely, please.')
